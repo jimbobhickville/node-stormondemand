@@ -1,3 +1,9 @@
+/*
+*  This library is generated and should not be modified directly.  To make changes
+*  modify lib/index.mustache to generate the changed code, then run `node lib/generate.js`
+*  to regenerate this library.
+*/
+
 var http    = require('request');
 
 var defaults = {
